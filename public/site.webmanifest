@@ -1,0 +1,24 @@
+{
+  "name": "Smart Future Academy",
+  "short_name": "Smart Future",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#fff3f7",
+  "theme_color": "#0b5ed7",
+  "description": "Smart Future Academy — Kenyan CBE School Management System",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
